@@ -23,8 +23,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DBeloni&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBeloni&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=DBeloni&show_icons=true&theme=radial" alt="Estatísticas" height="150" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=DBeloni&layout=compact&theme=radial" alt="Linguagens" height="150" />
 </div>
 
 ---
