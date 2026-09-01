@@ -1,7 +1,7 @@
 # Oi, me chamo Davi Beloni! 👋
 
 - 🚀 Estudante de tecnologia focado em **Desenvolvimento Full Stack**
-- 📚 Atualmente aprendendo **Java**
+- 📚 Atualmente aprendendo **SQL**
 - 💡 Gosto de criar projetos sobre **sites** que ajudem as pessoas
 - 📫 Como falar comigo: **davi.beloni.pinheiro@gmail.com**
 
