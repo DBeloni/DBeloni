@@ -2,7 +2,7 @@
 
 - 🚀 Estudante de tecnologia focado em **Desenvolvimento Full Stack**
 - 📚 Atualmente aprendendo **SQL**
-- 💡 Gosto de criar projetos sobre **sites** que ajudem as pessoas
+- 💡 Gosto de criar projetos e sistemas que ajudem as pessoas
 - 📫 Como falar comigo: **davi.beloni.pinheiro@gmail.com**
 
 ---
@@ -23,7 +23,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=DBeloni&show_icons=true&theme=radial" alt="Estatísticas" height="150" />
   <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=DBeloni&layout=compact&theme=radial" alt="Linguagens" height="150" />
 </div>
 
