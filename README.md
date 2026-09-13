@@ -1,13 +1,21 @@
-# Oi, me chamo Davi Beloni! 👋
+# Hellooo buddies! 👋
 
-- 🚀 Estudante de tecnologia focado em **Desenvolvimento Full Stack**
-- 📚 Atualmente aprendendo **SQL**
-- 💡 Gosto de criar projetos e sistemas que ajudem as pessoas
-- 📫 Como falar comigo: **davi.beloni.pinheiro@gmail.com**
+My name's Davi Beloni, but y'all can call me **DBeloni** :)
+I'm a student who likes coding, creating random stuff, learning new things and, occasionally, wondering why my code suddenly stopped working.
+I'm currently studying **Systems Development** and trying to become a better developer one bug at a time.
+
+### A little bit about me
+
+- 💻 Currently learning **JAVA** (yes, again)
+- 🧠 Always trying to learn something new
+- 🛠️ I like building projects just because I had an idea
+- ♟️ I also play chess
+- 🐛 Bugs are, unfortunately, part of the experience
+- 🤝 Feel free to look around, check my projects or say hi!
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### 🧰 Stuff I know / am learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,14 +28,21 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Apparently, I code in these
 
 <div align="center">
-  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=DBeloni&layout=compact&theme=radial" alt="Linguagens" height="150" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=DBeloni&layout=compact&theme=radial" alt="Languages" height="150" />
 </div>
 
 ---
 
-### 🤝 Conecte-se comigo
+### 👋 Wanna talk?
+
+You can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davipinheiro0/)
+
+Or just say hi somewhere. I don't bite :)
+
+📫 Email: **davi.beloni.pinheiro@gmail.com**
+💻 Discord: **newbeloni**
