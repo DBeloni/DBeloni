@@ -6,7 +6,7 @@ I'm currently studying **Systems Development** and trying to become a better dev
 
 ### A little bit about me
 
-- 💻 Currently learning **JAVA** (yes, again)
+- 💻 Currently learning **Dev Opps** (surprisingly I liked this stuff)
 - 🧠 Always trying to learn something new
 - 🛠️ I like building projects just because I had an idea
 - ♟️ I also play chess
